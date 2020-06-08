@@ -12,6 +12,9 @@ JelloMesh : DefaultSceneNode, ISolid, ITimeDependent
 ### File: Jello.cs
 ### ITimeDependent: Yes
 
+## Example
+[Short clip showing simulated jello cube](https://youtu.be/6vrMCWcR1zA)
+
 ## Usage
 ### Preprocessing
 Set floor collision height
